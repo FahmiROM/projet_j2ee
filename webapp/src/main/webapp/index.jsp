@@ -1,4 +1,5 @@
-<h1>Welcome to DevOps sir FAHMI :) !!! Deploiement avec GIT-->jenkins-->webapp.war---->DOCKER---->DockerHub---->ANSIBLE----->tomcat  N.GRASSA</h1>
+<h1>Welcome to DevOps sir FAHMI :) !!! Deploiement avec GIT-->jenkins-->tomcat-image-kubernetes---->DOCKER---->DockerHub---->kubernetes---->pods (deployment.yml/service.yml)
+</h1>
 XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD 
 
 
