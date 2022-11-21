@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: projet-j2ee
+  labels:
+    app: projet-j2ee
+spec:
+  replicas: 4
+  selector:
+    matchLabels:
+      app: projet-j2ee
+  template:
+    metadata:
+      labels:
+        app: projet-j2ee
+    spec:
+      containers:
+      - name: tomcat
+        image: fahmirom/tomcat-image
+        ports:
+        - containerPort: 8080

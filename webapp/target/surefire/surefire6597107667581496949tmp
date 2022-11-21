@@ -1,0 +1,25 @@
+#surefire
+#Tue Oct 18 19:20:18 UTC 2022
+testSuiteDefinitionTestSourceDirectory=/home/ubuntu/projet_j2ee/webapp/src/test/java
+includes1=**/*Test.java
+includes2=**/*TestCase.java
+runOrder=filesystem
+runStatisticsFile=/home/ubuntu/projet_j2ee/webapp/.surefire-F797E16FB5B7F745431975A266F579E5ED44AD4B
+includes0=**/Test*.java
+reportsDirectory=/home/ubuntu/projet_j2ee/webapp/target/surefire-reports
+surefireClassPathUrl.0=/home/ubuntu/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.11/surefire-junit3-2.11.jar
+classPathUrl.0=/home/ubuntu/projet_j2ee/webapp/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+classPathUrl.1=/home/ubuntu/projet_j2ee/webapp/target/classes
+failIfNoTests=false
+classPathUrl.2=/home/ubuntu/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar
+classPathUrl.3=/home/ubuntu/.m2/repository/javax/servlet/jsp/jsp-api/2.2/jsp-api-2.2.jar
+testClassesDirectory=/home/ubuntu/projet_j2ee/webapp/target/test-classes
+isTrimStackTrace=true
+surefireClassPathUrl.1=/home/ubuntu/.m2/repository/org/apache/maven/surefire/surefire-api/2.11/surefire-api-2.11.jar
+excludes0=**/*$*
+forkMode=once
+enableAssertions=true
+childDelegation=false
+useManifestOnlyJar=true
+useSystemClassLoader=true

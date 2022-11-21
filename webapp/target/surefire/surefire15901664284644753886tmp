@@ -1,0 +1,5 @@
+#surefire
+#Tue Oct 18 19:20:18 UTC 2022
+basedir=/home/ubuntu/projet_j2ee/webapp
+user.dir=/home/ubuntu/projet_j2ee/webapp
+localRepository=/home/ubuntu/.m2/repository
