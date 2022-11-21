@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: tomcat
-        image: fahmirom/tomcat-image
+        image: fahmirom/tomcat-image-k8s
         ports:
         - containerPort: 8080
