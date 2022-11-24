@@ -1,4 +1,4 @@
-<h1>Welcome to DevOps sir FAHMI :) !!! Deploiement avec GIT-->jenkins-->tomcat-image-kubernetes---->DOCKER---->DockerHub---->kubernetes---->pods (deployment.yml/service.yml)
+<h1>Welcome to DevOps sir FAHMI :) !!! Deploiement avec GIT-->jenkins-->tomcat-image-kubernetes---->DockerHub---->kubernetes---->DOCKER---->pods (final.yml)
 </h1>
 XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD XD 
 
